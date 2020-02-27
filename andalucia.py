@@ -23,7 +23,9 @@ tiempo={"0":semicorchea,"1":2*semicorchea,"2":6*semicorchea,"3":4*semicorchea,"4
 
 # Guardamos la partitura en la cadena "musica", las notas están separada por un espacio. La nota "--" es un silencio. Se indica el tipo de nota (un número) y la nota
 
-musica="3Do 3Re 5Mi 3Fa 3La 4Sol 3Fa# 4Sol 4Re 6-- 3La 3La 6La 1Si 1La 4Sol 3Fa 1Sol 1Fa 5Mi 6-- 3Do 3Re 5Mi 3Fa 3La 4Sol 3Fa# 4Sol 4Re 6-- 3La 3La 6La 1Si 1La 4Sol 3Fa 1Sol 1Fa 5Mi 7-- 6Do1 6Sol 3Fa 3Sol 4Fa 6Mi 6Do1 7Sol 3Fa 4La 1Sol 1Fa 4Mi"
+# musica="3Do 3Re 5Mi 3Fa 3La 4Sol 3Fa# 4Sol 4Re 6-- 3La 3La 6La 1Si 1La 4Sol 3Fa 1Sol 1Fa 5Mi 6-- 3Do 3Re 5Mi 3Fa 3La 4Sol 3Fa# 4Sol 4Re 6-- 3La 3La 6La 1Si 1La 4Sol 3Fa 1Sol 1Fa 5Mi 7-- 6Do1 6Sol 3Fa 3Sol 4Fa 6Mi 6Do1 7Sol 3Fa 4La 1Sol 1Fa 4Mi"
+musica="3Do 3Re 5Mi 3Fa 3La 4Sol 3Fa# 4Sol 4Re 6-- 3La 3La 6La 1Si 1La 4Sol 3Fa 1Sol 1Fa 5Mi 6-- 3Do 3Sol 2Fa 2La 2Sol 2Fa 4Mi 5-- 3Do 3Sol 2Fa 2La 2Sol 2Fa 4Mi 6-- 3Mi 2Re 3Mi 2Fa 3La 1Si 1La 1Sol 1Fa 4Sol 3Sol 3La 2Si 3La 2Sol 1Fa 2Mi 1Fa 2Sol 2Fa 1Mi 3Re 3Re 4Do 6Do"
+
 
 # Programa principal
 
